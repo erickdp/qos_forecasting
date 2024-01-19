@@ -41,7 +41,7 @@ Los resultados consisten en:
 | Disk Used percent   | ![Disk Used percent_dataset.png](imgs%2FDisk%20Used%20percent_dataset.png) |
 | Uptime              | ![Uptime_dataset.png](imgs%2FUptime_dataset.png)                           |
 
-## Métricas
+## Metrics
 
 | Variable            | RMSE                                                                     | MAE                                                                     | MAPE                                                                     | MASE                                                                     |
 |---------------------|--------------------------------------------------------------------------|-------------------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------|
