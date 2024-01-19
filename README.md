@@ -18,7 +18,6 @@ These results are:
 * Representation of the **_training, validation and test_** datasets with the observations extracted from the cloud service SAlert monitoring.
 * Model validation metrics consisting of **_RMSE, MAE, MAPE, MASE_**
 * Model fitting on the training dataset and prediction on the test dataset.
-Los resultados consisten en:
 
 ## _Datasets_
 
